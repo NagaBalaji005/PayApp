@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Circle background -->
+  <circle cx="50" cy="50" r="45" fill="#34b7f1" />
+  
+  <!-- Payment card illustration -->
+  <rect x="25" y="30" width="50" height="35" rx="8" fill="#ffffff" stroke="#0088cc" stroke-width="2" />
+  
+  <!-- Card lines -->
+  <rect x="30" y="37" width="40" height="4" fill="#0088cc" />
+  <rect x="30" y="45" width="40" height="4" fill="#0088cc" />
+  
+  <!-- Currency symbol (dollar sign) -->
+  <text x="50" y="63" font-family="Arial" font-size="20" fill="#ffffff" text-anchor="middle">$</text>
+  
+  <!-- Arrow symbol for payment -->
+  <polygon points="50,10 45,20 55,20" fill="#ffffff" />
+  
+  <!-- Tagline or project name (optional) -->
+  <text x="50" y="90" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">PayNow</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Circle background -->
+  <circle cx="50" cy="50" r="48" fill="#2F80ED" />
+
+  <!-- Card Icon -->
+  <rect x="20" y="35" width="60" height="30" rx="6" fill="#FFFFFF" />
+  
+  <!-- Card Details (lines for text) -->
+  <rect x="25" y="42" width="50" height="4" rx="2" fill="#2F80ED" />
+  <rect x="25" y="48" width="50" height="4" rx="2" fill="#2F80ED" />
+
+  <!-- Secure Lock Icon -->
+  <path d="M50 25C47.791 25 46 26.791 46 29V32H54V29C54 26.791 52.209 25 50 25Z" fill="#ffffff"/>
+  <path d="M50 34C47.791 34 46 35.791 46 38V45C46 47.209 47.791 48 50 48C52.209 48 54 46.209 54 44V38C54 35.791 52.209 34 50 34Z" fill="#ffffff"/>
+
+  <!-- Payment Arrow -->
+  <polygon points="55,72 50,77 45,72" fill="#ffffff"/>
+
+  <!-- Tagline or Project Name -->
+  <text x="50" y="88" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">PayEase</text>
+</svg>
